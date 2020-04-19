@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.inject</groupId>
+  <artifactId>jdk8-tests</artifactId>
+  <versioning>
+    <release>4.2.4-20200419-NEWAOP-BETA</release>
+    <versions>
+      <version>4.2.4-20200419-NEWAOP-BETA</version>
+    </versions>
+    <lastUpdated>20200419223036</lastUpdated>
+  </versioning>
+</metadata>
