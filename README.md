@@ -16,6 +16,8 @@ This BETA replaces CGLIB with a brand-new AOP implementation that should work be
     </dependency>
 ```
 
+[guice-4.2.4-20200419-NEWAOP-BETA.jar](https://mcculls.github.io/guice-betas/maven2/com/google/inject/guice/4.2.4-20200419-NEWAOP-BETA/guice-4.2.4-20200419-NEWAOP-BETA.jar)
+
 ## Maven repository
 
 To consume these betas add the following repository definition to the `<repositories>` section of your pom.xml
