@@ -2,6 +2,8 @@
 
 Unofficial BETA builds of [Google-Guice](https://github.com/google/guice) with experimental features.
 
+These builds are deployed temporarily for community testing purposes and shouldn't be used in production.
+
 Issues with these builds should be reported [here](https://github.com/mcculls/guice-betas/issues) rather than the upstream Guice repository.
 
 ## 4.2.4-20200419-NEWAOP-BETA
